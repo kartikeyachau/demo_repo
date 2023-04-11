@@ -1,4 +1,4 @@
 # Demo
 
 Some description
-checking push status
+checking push status.
